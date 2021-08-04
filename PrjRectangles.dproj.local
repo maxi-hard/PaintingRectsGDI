@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899 12 30 00:00:00.000.329,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\prjRectangles.dproj=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Project1.dproj</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.988,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Unit1.dfm</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.541,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\UObjects.pas=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Unit2.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.083,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Unit2.pas=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\UFunctions.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.290,=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Unit2.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.840,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\UMain.dfm=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Unit1.dfm</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.822,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Прямоугольники.dproj=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\PrjRectangles.dproj</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.479,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Rectangles.dproj=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\prjRectangles.dproj</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.500,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\PrjRectangles.dproj=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Прямоугольники.dproj</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.678,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\PrjRectangles.dproj=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Rectangles.dproj</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.294,=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\GdiPlus\Lib\GdiPlusHelpers.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.840,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\UMain.pas=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Unit1.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.988,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Unit1.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.582,=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.983,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Project1.dproj</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.069,=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\Unit2.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.325,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\UFunctions.pas=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.268,=C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\GdiPlus\Lib\GdiPlus.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.803,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\GdiPlus\Lib\GdiPlus.pas=</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.305,C:\Users\SEREGA_VOLCHARA\Documents\Embarcadero\Studio\Projects\2021-08-01_PaintingRects\GdiPlus\Lib\GdiPlusHelpers.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
